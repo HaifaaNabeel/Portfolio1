@@ -1,0 +1,61 @@
+.imgslid {
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: black;
+    opacity: .9;
+    height: 100vh;
+    max-height: 100vh; 
+    background-position-y: 50px;
+  }
+  .imag1{
+    background-image: url("../images/we8.png");
+    background-position-x: right;
+    background-position-y: 100%;
+    background-position-y: 80px;
+
+  }
+  .imag2{
+    background-image: url("../images/we8.png");
+    background-position-x: right;
+    background-position-y: 80px;  }
+  .imag3{
+    background-image: url("../images/we8.png");
+    background-position-x: right;
+    background-position-y: 80px;  }
+  .social ul{
+    margin-top: 50vh;   
+    position:  relative;
+    float: right;
+}
+.social {
+    position: absolute;
+    bottom: 3vh;
+    right: 3vw;
+    background-color: transparent;
+  }
+.social li{
+   display :block;
+    padding: 15px;
+}
+.lang ul{
+    margin-top: 70vh;margin-left: 5vh;   
+    position:  relative;
+    float: left;
+}
+.lang {
+    position: absolute;
+    bottom: 3vh;
+    left: 3vw;
+    background-color: transparent;
+  }
+.lang .btn {
+    display: block;
+    font-size: 16px;
+    text-decoration: none;
+    transform: rotate(90deg);
+    color: #fff;
+    padding: 20px;
+    font: bold 12px Sans-Serif;
+    text-transform: uppercase;
+  }
