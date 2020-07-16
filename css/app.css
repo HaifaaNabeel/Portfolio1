@@ -59,3 +59,11 @@
     font: bold 12px Sans-Serif;
     text-transform: uppercase;
   }
+  .text{
+    height: 30vh;
+    position: relative;
+    text-align: center;
+    font-size:15px;
+    padding: 11vh 70vh;
+    
+}
